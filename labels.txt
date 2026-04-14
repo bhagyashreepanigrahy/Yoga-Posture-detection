@@ -1,0 +1,65 @@
+Boat Pose
+Bound Angle Pose
+Bow Pose
+Bridge Pose
+Butterfly Pose
+Camel Pose
+Cat Pose
+Chair Pose
+Child's Pose
+Cobra Pose
+Cow Pose
+Crow Pose
+Dolphin Pose
+Downward Facing Dog
+Eagle Pose
+Extended Side Angle
+Fish Pose
+Forearm Stand
+Four-Limbed Staff Pose
+Garland Pose
+Half Lord of the Fishes
+Half Moon Pose
+Handstand
+Happy Baby Pose
+Headstand
+Hero Pose
+Intense Side Stretch Pose
+King Pigeon Pose
+Legs-Up-The-Wall Pose
+Locust Pose
+Lotus Pose
+Low Lunge
+Mountain Pose
+One-Legged King Pigeon
+Pigeon Pose
+Plank Pose
+Prayer Twist
+Pyramid Pose
+Reclined Bound Angle Pose
+Reclining Hand-to-Big-Toe Pose
+Reverse Warrior
+Revolved Triangle Pose
+Scale Pose
+Seated Forward Bend
+Shoulder Stand
+Side Crow Pose
+Side Plank
+Sphinx Pose
+Staff Pose
+Standing Forward Fold
+Sugarcane Pose
+Supine Twist
+Supported Bridge Pose
+Thunderbolt Pose
+Tortoise Pose
+Tree Pose
+Triangle Pose
+Unknown Pose
+Upward Facing Dog
+Warrior I
+Warrior II
+Warrior III
+Wheel Pose
+Wide-Legged Forward Fold
+Wild Thing Pose
